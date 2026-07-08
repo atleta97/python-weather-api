@@ -10,13 +10,12 @@ The project was completed as part of my independent transition towards computati
 
 ## Features
 
-- Weather API integration
-- JSON parsing
-- Geocoding
-- Error handling
-- Modular design
-- Multiple location support
-- Weather data formatting
+- Location-based weather search
+- Geocoding using API data
+- Weather forecast retrieval
+- JSON response processing
+- Modular function-based structure
+- Error handling and input validation
 
 ## Skills Demonstrated
 
