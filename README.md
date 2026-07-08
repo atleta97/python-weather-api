@@ -27,7 +27,7 @@ The project was completed as part of my independent transition towards computati
 - Data validation
 - Modular programming
 
-## Suggested Repository Structure
+## Repository Structure
 
 ```text
 weather-api-application/
