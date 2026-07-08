@@ -34,8 +34,7 @@ weather-api-application/
 ├── README.md
 ├── weather_app.py
 ├── requirements.txt
-├── screenshots/
-└── docs/
+
 ```
 
 ## API
